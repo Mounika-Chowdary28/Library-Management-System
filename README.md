@@ -4,6 +4,7 @@ This C program simulates a simple Library Management System. It allows users to 
 
 
 **Features:**
+
 Add Book Information: Enter details like book name, author, number of pages, and price.
 
 Display Book Information: View the list of all books in the library.
